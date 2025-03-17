@@ -24,7 +24,7 @@ const LandingPage = () => {
         </div>
         <div className="w-[300px] h-[300px] drop-shadow-2xl flex items-center justify-center">
           <DotLottieReact
-            src="/GVVFgJv2Ku.lottie"
+            src="./GVVFgJv2Ku.lottie"
             autoplay
             loop
           />
